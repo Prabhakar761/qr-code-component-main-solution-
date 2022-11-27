@@ -1,0 +1,43 @@
+body{
+    background-color: hsl(228, 45%, 44%);
+}
+
+.row{
+    width: 100%;
+    margin-top: 60px;
+    /* text-align: center; */
+    /* background-color: white; */
+    /* border-radius: 35px; */
+    /* display: flex; */
+    justify-content: center;
+}
+
+img{
+    width: 319px;
+    /* padding: 26px; */
+    border-radius: 15px;
+}
+
+.small-price{
+    text-align: center;
+    font-size: x-large;
+    margin: 15px 15px 15px 15px;
+}
+
+/* .price{
+    text-align: -webkit-center;
+    margin-top: 100px;
+} */
+
+p{
+    margin: 11px 29px;
+    padding-top: 8px;
+}
+
+.card{
+    border-radius: 15px !important;
+}
+
+.col{
+    padding: 35px 74px !important;
+}
